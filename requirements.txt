@@ -1,1 +1,2 @@
 !pip install sklearn
+-m pip install --upgrade pip
